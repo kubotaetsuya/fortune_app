@@ -1,0 +1,14 @@
+{
+  "fortune": [
+    {
+      "id": 1,
+      "content": "Create React app をインストールする",
+      "done": true
+    },
+    {
+      "id": 2,
+      "content": "Create React app をインストールする",
+      "done": true
+    }
+  ]
+}
