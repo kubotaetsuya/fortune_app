@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import Top from './components/Top';
 
 function App() {
