@@ -1,7 +1,10 @@
 
 const StemsAndBranches = () => {
   return (
-    <button>干支占いへ</button>
+    <>
+      <h1>あなたの干支から来世の自分がわかります！！</h1>
+      <a href="/">干支占いへ</a>
+    </>
   )
 }
 
